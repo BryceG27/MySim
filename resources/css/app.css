@@ -1,0 +1,30 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+/* @import '/node_modules/flag-icon-css/css/flag-icons.css'; */
+/*@import './login.css';*/
+
+[v-cloak] {
+    display: none;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.text-bg-sunrise {
+    color: black;
+    background-color : #d68d52;
+}
+
+.text-bg-green {
+    color: rgba(255, 255, 255, 0.736);
+    background-color : #78b678
+}
+
+.text-bg-celestial {
+    color: rgb(51, 51, 51);
+    background-color : #1b93d9
+}
